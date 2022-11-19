@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ashu5467/Crypto-Dashboard/static/css/main.f411cf7c.css",
+    "main.js": "/ashu5467/Crypto-Dashboard/static/js/main.8082446b.js",
+    "static/js/787.30c80a2b.chunk.js": "/ashu5467/Crypto-Dashboard/static/js/787.30c80a2b.chunk.js",
+    "static/media/iphone.png": "/ashu5467/Crypto-Dashboard/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/ashu5467/Crypto-Dashboard/static/media/gradient.92b5695b3b868806db3d.png",
+    "index.html": "/ashu5467/Crypto-Dashboard/index.html",
+    "main.f411cf7c.css.map": "/ashu5467/Crypto-Dashboard/static/css/main.f411cf7c.css.map",
+    "main.8082446b.js.map": "/ashu5467/Crypto-Dashboard/static/js/main.8082446b.js.map",
+    "787.30c80a2b.chunk.js.map": "/ashu5467/Crypto-Dashboard/static/js/787.30c80a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f411cf7c.css",
+    "static/js/main.8082446b.js"
+  ]
+}
